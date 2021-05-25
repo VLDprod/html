@@ -1,0 +1,55 @@
+header {
+
+				background: #e2edc1;}
+
+#txt::selection {
+
+				color: #fc0;
+
+				background: #000;
+
+}
+
+#txt {
+
+				width: 300px;
+
+				height: 200px;
+
+}
+
+ #txt:hover {
+
+ 				font: #11ff00;
+
+ 				border: 20px;
+
+ }
+
+ 
+
+header ul {
+
+				margin: 0; padding: 10px;
+
+}
+
+header li {
+
+				display: inline; margin-right: 10px;
+
+}
+
+header a {
+
+				color: #333391; text-decoration: none;
+
+}
+
+header a:hover {
+
+				text-decoration: underline;
+
+}
+
+ 
